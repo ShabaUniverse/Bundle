@@ -1,0 +1,17 @@
+dist/index.html                   0.38 kB │ gzip:  0.27 kB
+dist/assets/index-03375186.css    1.25 kB │ gzip:  0.62 kB
+dist/assets/index-46347f08.js   163.50 kB │ gzip: 53.06 kB
+
+==========================================================
+
+after lazy()
+
+dist/index.html                    0.38 kB │ gzip:  0.27 kB
+dist/assets/index-03375186.css     1.25 kB │ gzip:  0.62 kB
+dist/assets/Home-a63b3f41.js       0.24 kB │ gzip:  0.16 kB
+dist/assets/About-91cf3ba9.js      0.24 kB │ gzip:  0.16 kB
+dist/assets/Contact-07917ced.js    0.25 kB │ gzip:  0.16 kB
+dist/assets/index-2532cc74.js    164.15 kB │ gzip: 53.45 kB
+
+==========================================================
+

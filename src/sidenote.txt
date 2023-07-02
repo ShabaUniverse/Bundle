@@ -1,0 +1,23 @@
+However, it's important to note that while React.lazy() can help with the initial load time, 
+it doesn't directly reduce the overall bundle size. 
+The total size of your application's code remains the same. 
+The difference is that the code is split into separate chunks, which are loaded asynchronously when required.
+=============================================================================================================
+
+So, to summarize, React.lazy() improves 
+the load time by splitting the code into separate chunks and loading them on-demand. 
+It doesn't directly reduce the bundle size, 
+but it allows for a more optimized initial load experience. 
+To reduce the bundle size, you would need to apply additional optimization techniques and tools.
+=============================================================================================================
+
+Reducing the bundle size is typically achieved through other optimization techniques such as 
+tree shaking, minification, 
+compression, and utilizing code splitting strategies beyond React.lazy(). 
+These techniques help eliminate dead code, 
+remove unused dependencies, and optimize the remaining code for size.
+=============================================================================================================
+
+
+
+
