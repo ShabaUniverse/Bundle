@@ -37,7 +37,7 @@
 }
 
 
-.home-wrapper p , .about-wrapper p , .contact-wrapper p {
+.home-wrapper h2 , .about-wrapper h2 , .contact-wrapper h2 {
 
   
   text-transform: uppercase;
@@ -69,7 +69,7 @@
 
 .home-wrapper , .about-wrapper , .contact-wrapper {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh;
 }
