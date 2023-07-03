@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ComponentOne = () => {
+export const ComponentOne = () => {
   return (
     <div>
       <p>component one</p>
@@ -10,5 +10,3 @@ const ComponentOne = () => {
     </div>
   )
 }
-
-export default ComponentOne

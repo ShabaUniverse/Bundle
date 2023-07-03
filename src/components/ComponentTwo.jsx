@@ -1,12 +1,9 @@
 import React from 'react'
 
-const ComponentTwo = () => {
+export const ComponentTwo = () => {
   return (
     <div>
       <p>component two</p>
-      
     </div>
   )
 }
-
-export default ComponentTwo
