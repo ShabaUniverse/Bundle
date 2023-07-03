@@ -18,6 +18,13 @@ These techniques help eliminate dead code,
 remove unused dependencies, and optimize the remaining code for size.
 =============================================================================================================
 
+if we import components inis way, that not good, and not bad at the same time:
+might be bad just due to quantity of imports.
 
+import ComponentOne from "../components/ComponentOne";
+import ComponentTwo from "../components/ComponentTwo";
+import ComponentThree from "../components/ComponentThree";
+import ComponentFour from "../components/ComponentFour";
 
+=============================================================================================================
 
